@@ -1,7 +1,3 @@
 This is file2
 
-<<<<<<< HEAD
 version updated.
-=======
-version updated.
->>>>>>> aa6e43e3794b7b76cf5e89115b0a3ed6460883ca
